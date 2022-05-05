@@ -33,7 +33,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskTillDawn85&layout=compact&theme=tokyonight&card_width=445" alt="Most Used Languages"/> -->
 
-<img align="right" src="https://generator.vladde.me/?v=0">
+<img align="right" src="https://generator.vladde.me/?seed=salsa">
+<!-- other theme: minibrills -->
 
 <br/>
 <br/>
