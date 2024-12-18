@@ -1,6 +1,6 @@
 ## Hi there, I'm Shawn 👋
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"> -->
-- 🚩 A web developer based in ~~ShenZhen~~~ ShiJiaZhuang.
+- 🚩 A web developer based in ~~ShenZhen~~ ShiJiaZhuang.
 - 🌱 Currently learning TypeScript & React.
 - 🏸 Enjoy playing badminton.
 
